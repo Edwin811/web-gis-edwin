@@ -1,7 +1,7 @@
-# 🌍 WebGIS
+# WebGIS
 
 
-## 🗺️ 1. Pengenalan GIS & WebGIS
+## 1. Pengenalan GIS & WebGIS
 
 **GIS (Geographic Information System)** adalah sistem pengelolaan data berbasis peta yang digunakan untuk mengelola, menganalisis, dan menampilkan data dengan informasi geografis (koordinat) di permukaan bumi. 
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 2. Jenis Data Spasial & Sistem Koordinat
+## 2. Jenis Data Spasial & Sistem Koordinat
 
 Data dalam GIS tidak sekadar angka atau teks, melainkan data yang merepresentasikan lokasi di permukaan bumi.
 
@@ -28,7 +28,7 @@ Data dalam GIS tidak sekadar angka atau teks, melainkan data yang merepresentasi
 
 ---
 
-## 🏗️ 3. Arsitektur & Komponen WebGIS (3-Tier)
+## 3. Arsitektur & Komponen WebGIS (3-Tier)
 
 WebGIS menggunakan arsitektur 3-tier yang memisahkan tanggung jawab sistem untuk keamanan dan kemudahan pemeliharaan.
 
@@ -41,7 +41,7 @@ WebGIS menggunakan arsitektur 3-tier yang memisahkan tanggung jawab sistem untuk
 
 ---
 
-## 🛠️ 4. Teknologi & Standar OGC
+## 4. Teknologi & Standar OGC
 
 WebGIS dibangun menggunakan kombinasi berbagai teknologi
 * **Frontend** HTML, CSS, JavaScript, Leaflet, OpenLayers.
@@ -56,7 +56,7 @@ WebGIS dibangun menggunakan kombinasi berbagai teknologi
 
 ---
 
-## 🔄 5. Fitur & API dalam WebGIS
+## 5. Fitur & API dalam WebGIS
 
 WebGIS bekerja melalui komunikasi API (*Application Programming Interface*) dengan metode HTTP (GET, POST, PUT, DELETE) untuk mengambil data lokasi, menambah koordinat baru, atau mengupdate atribut.
 
@@ -67,7 +67,7 @@ WebGIS bekerja melalui komunikasi API (*Application Programming Interface*) deng
 
 ---
 
-## 🛡️ 6. Peran Penting QA dalam WebGIS
+## 6. Peran Penting QA dalam WebGIS
 
 Karena kompleksitas komponennya, seorang Quality Assurance (QA) Tester sangat vital dalam pengembangan WebGIS. Potensi *bug* dapat terjadi pada UI, logika *backend*, atau data spasial yang bergeser.
 
